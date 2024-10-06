@@ -4,6 +4,8 @@
 
 This project is a data analysis of student applications to three universities using **Power BI**. The goal of the project is to gain insights into student application trends, demographics, and other relevant details.
 
+! [preview] (screenshot/demography.png "Dashboard Preview")
+
 ### Key Features:
 - **Interactive Dashboards**: A user-friendly Power BI dashboard displaying student application data in an interactive format.
 - **Data Insights**: Analysis of trends such as:
