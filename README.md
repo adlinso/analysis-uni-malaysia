@@ -27,3 +27,14 @@ The dataset used in this project is simulated data representing student applicat
 - **Power BI**: Main tool used for data analysis and visualization.
 - **Data Cleaning**: Basic data preprocessing done using GSheets.
 - **GitHub**: For documentation.
+
+## How to Use
+
+1. **Clone this repository**:
+    ```bash
+    git clone https://github.com/adlinso/analysis-uniapplication-powerbi.git
+    ```
+
+2. Open the `.pbix` file in **Power BI Desktop** to explore the dashboards and visualizations.
+
+3. Customize the dashboard by importing your own dataset or modifying the existing one.
