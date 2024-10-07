@@ -4,8 +4,6 @@
 
 This project is a data analysis of student applications to three universities using **Power BI**. The goal of the project is to gain insights into student application trends, demographics, and other relevant details.
 
-![preview](screenshot/overview.png "Dashboard Preview")
-
 ### Key Features:
 - **Interactive Dashboards**: A user-friendly Power BI dashboard displaying student application data in an interactive format.
 - **Data Insights**: Analysis of trends such as:
@@ -38,3 +36,9 @@ The dataset used in this project is simulated data representing student applicat
 2. Open the `.pbix` file in **Power BI Desktop** to explore the dashboards and visualizations.
 
 3. Customize the dashboard by importing your own dataset or modifying the existing one.
+
+## Preview
+
+![preview](screenshot/overview.png "Dashboard Preview Page 1")
+
+![preview](screenshot/demography.png "Dashboard Preview Page 2")
